@@ -49,7 +49,7 @@ Check that commands appear:
 ```bash
 /help
 ```
-
+> **Note:** In the Claude Code TUI, you may need to navigate to the **`custom-commands`** tab (using the `Tab` key or `→` arrow key) to see the plugin commands.
 ```
 # Should see:
 # /superpowers:brainstorm - Interactive design refinement
